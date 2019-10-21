@@ -1,0 +1,37 @@
+*{
+
+    color: lightgrey;
+    font-size: 18px;
+    font: helvetica;
+  }
+
+body{
+    background-image: 
+    linear-gradient(
+        rgba(0, 0, 0, 0.9),
+        rgba(0, 0, 0, 0.9)
+    ),
+    url("https://m.media-amazon.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+  a:hover, a:focus{
+    font-size:20px;
+  }
+  h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+  }
+  h2{
+    font-size: 30px;
+    color: white;
+  }
+
+  h3{
+      font-size: 20px;
+      color: white;
+  }
